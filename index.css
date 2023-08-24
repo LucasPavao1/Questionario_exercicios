@@ -1,0 +1,31 @@
+button{
+color: blue;
+font-size: small;
+background-color: aliceblue;
+
+}
+
+body{
+background-color: aquamarine;
+margin-left: 30px;
+text-align: left;
+
+}
+h1{
+text-align: center;
+font-family: fantasy;
+color: white;
+background-color: blue;
+text-align: center justify;
+margin: auto;
+}
+.A{
+text-align: left;
+margin-left: 20px;
+
+}
+.B{
+text-align: left;
+margin-left:20px ; 
+
+}
